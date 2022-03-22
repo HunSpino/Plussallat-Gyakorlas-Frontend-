@@ -5,7 +5,7 @@
       <thead>
         <tr>
           <th>Azonsító</th>
-          <th>Plüss Név</th>
+          <th>Plüssnek a Neve</th>
           <th>Műveletek</th>
         </tr>
       </thead>
